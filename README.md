@@ -1,2 +1,2 @@
 # ultra-suave.com
-you &amp; us
+are you ultra suave?
