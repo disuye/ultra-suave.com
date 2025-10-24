@@ -14,7 +14,7 @@ body {
     background-color: black;
     background: url(
         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAUElEQVQYV4XOsQ3AMAgEQOhpaRiAJZifuYgdyZacgPn6Hh7NLNwdqogIEBGgqgYzQ4dxNGI2OozjZazzN/zCua/DG3b4gDf8gxVOYYZL+MUPiyomcqpan8gAAAAASUVORK5CYII=
- );
+    );
 /*    background: url(
         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAFUlEQVQYV2O8ffu2LwMDAwMjiAABAC1zAuFbE/raAAAAAElFTkSuQmCC
         );*/
@@ -45,7 +45,7 @@ body {
     color: black;
 }
 *:not(.logo) {
-        transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 /* smartphones, touchscreens */
     @media (hover: none) and (pointer: coarse) {
@@ -57,6 +57,6 @@ body {
     }
 }
 .logo {
-    width: 33vw;
+    width: 50vw;
     min-width: 400px !important;
 }
